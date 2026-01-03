@@ -1,0 +1,25 @@
+# R History and Workspace
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+.Rproj.user
+
+# Package management
+/packrat/src/
+/renv/library/
+/renv/local/
+/renv/staging/
+
+# Generated files / caches
+*.Rcheck/
+*.Rproj
+*.docx
+*.html
+
+# OS Files
+.DS_Store
+Thumbs.db
+Desktop.ini
