@@ -256,6 +256,14 @@ install.packages(c("tidyverse", "ggplot2", "rvest", "dplyr", "httr"))
 ### 3. Execution
 Navigate to any specific day directory (e.g., `Web Scraping in R`) and execute the `.R` scripts directly within the RStudio console.
 
+> [!TIP]
+> ### R-Analytics Academy | Interactive Curriculum Explorer
+>
+> Experience the complete **30-day R Programming Challenge** directly in the browser through the centralized **Interactive Portfolio**. This hub serves as a scholarly gateway that orchestrates the month-long implementation of statistical milestones, providing a visual demonstration of data science evolution, credential validation, and featured project integration across the modern analytical landscape.
+>
+> [Launch Interactive Portfolio on GitHub Pages](https://Amey-Thakur.github.io/R/)
+
+
 ---
 
 <!-- USAGE GUIDELINES -->
